@@ -2,7 +2,7 @@
 <p>该课程设计是使用python语言，神经网络训练的模型ONNX,然后使用JavaFX可视化界面展示。 </p>
 ---
 
-**mnist_project是JavaFX可视化界面代码**
+**mnist_project是JavaFX可视化界面代码**\
 **mnist_model是模型训练代码**
 
 ---
