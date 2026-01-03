@@ -6,4 +6,5 @@
 **mnist_model是模型训练代码**
 
 <h1>可视化结果</h1>
-<img width="1213" height="576" alt="ScreenShot_2026-01-02_144557_518" src="https://github.com/user-attachments/assets/40d7876a-6988-40e6-9e20-5f1604a3ce13" />
+<img width="805" height="377" alt="image" src="https://github.com/user-attachments/assets/7c8c857d-6eda-4ece-a695-5853cff88050" />
+
